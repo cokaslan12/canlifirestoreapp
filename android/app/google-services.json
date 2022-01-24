@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "611419596798",
+    "project_id": "studentyoklama",
+    "storage_bucket": "studentyoklama.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611419596798:android:0897fcb04b363cb499c2af",
+        "android_client_info": {
+          "package_name": "com.example.canlifirestoreapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611419596798-pv8l4uq5k29rq95s5o2m3jp9579ujoku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.canlifirestoreapp",
+            "certificate_hash": "0eb189db214b7feef6cfc9f43ccc0bf42e089191"
+          }
+        },
+        {
+          "client_id": "611419596798-lkrbl4o7ovrkoes71onfk761qtiefst7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1cjBDTBgkiWQa5tKnZaDjYejPCsguqZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611419596798-lkrbl4o7ovrkoes71onfk761qtiefst7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
